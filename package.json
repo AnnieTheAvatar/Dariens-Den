@@ -1,0 +1,28 @@
+{
+    "name": "dariens-den",
+    "version": "1.0.0",
+    "description": "a lil website for my cat",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AnnieTheAvatar/Dariens-Den.git"
+    },
+    "keywords": [
+        "cat",
+        "darien",
+        "silly"
+    ],
+    "author": "Annie Lacoba",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AnnieTheAvatar/Dariens-Den/issues"
+    },
+    "homepage": "https://github.com/AnnieTheAvatar/Dariens-Den#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
